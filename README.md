@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## 2018.10.23
 
-You can use the [editor on GitHub](https://github.com/zhangyajun-phy/zhangyajun-phy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+[Using pymatgen for ploting  band structure  and density of states]()
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
